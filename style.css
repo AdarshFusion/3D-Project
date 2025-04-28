@@ -272,6 +272,7 @@ header a:hover {
 .signin-page h1 {
     font-size: 40px;
     font-weight: bold;
+    margin-bottom: 5%;
 }
 
 .signin-page input {
@@ -296,6 +297,7 @@ header a:hover {
     border-radius: 5px;
     cursor: pointer;
     color: white;
+    margin-bottom: 5%;
 }
 
 .signin-page p {
